@@ -6,5 +6,5 @@ In this assignment, you are a Data Analyst working at a Real Estate Investment T
 
 ## Platform Used
 
-IBM Watson Studio
+IBM Watson Studio '/n'
 Jupyter notebook
